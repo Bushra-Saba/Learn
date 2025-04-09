@@ -1,4 +1,4 @@
 # Learn
-My learning Git repository.
+My learn Git.
 <br>
 Author - Bushra Saba
