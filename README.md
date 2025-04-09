@@ -1,2 +1,2 @@
 # Learn
-My learning repository
+My learning Git repository
